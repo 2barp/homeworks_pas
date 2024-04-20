@@ -150,3 +150,4 @@ class Revolver:
         return len(self.storage)
 
 Revolver.add_bullet(bullet, bullet)
+# comment
